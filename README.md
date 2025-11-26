@@ -1,16 +1,23 @@
-## Hi there 👋
+### 👋  Hi there! I'm Artem
 
-<!--
-**Dizik345/Dizik345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Artificial Intelligence Student** at the **University of Pavia**.
+*Joint degree program with University of Milano-Bicocca & University of Milan.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+* **Languages:** Python, SQL
+* **Data Analysis:** Pandas, NumPy, Matplotlib
+* **Tools:** Git, VS Code, Jupyter Notebooks
+* **Languages (Human):** English (B2), Italian (b1), Russian (Native), Ukrainian (Native)
+
+---
+
+### What I'm working on
+
+* Analyzing datasets to find business insights using **Pandas**.
+* Mastering **Advanced SQL** (Joins, Window Functions).
+* Building data visualization dashboards.
+
+---
