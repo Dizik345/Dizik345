@@ -10,7 +10,7 @@
 * **Languages:** Python, SQL
 * **Data Analysis:** Pandas, NumPy, Matplotlib
 * **Tools:** Git, VS Code, Jupyter Notebooks
-* **Languages (Human):** English (B2), Italian (a2), Russian (Native), Ukrainian (Native)
+* **Languages (Human):** English (B2), Italian (A2), Russian (Native), Ukrainian (Native)
 
 ---
 
