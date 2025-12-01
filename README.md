@@ -22,4 +22,8 @@
 
 ---
 ### Leetcode:
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=alex228228&theme=dark&font=Segoe%20UI&ext=heat)](https://leetcode.com/u/Dizik345/)
+<div align="center">
+  <a href="https://leetcode.com/Dizik345/">
+    <img src="https://leetcode-stats-six.vercel.app/?username=alex228228&theme=dark&font=Segoe%20UI&ext=heat" alt="LeetCode Stats" />
+  </a>
+</div>
