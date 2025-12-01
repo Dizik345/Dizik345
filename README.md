@@ -21,3 +21,5 @@
 * Building data visualization dashboards.
 
 ---
+### Leetcode:
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=alex228228&theme=dark&font=Segoe%20UI&ext=heat)](https://leetcode.com/u/Dizik345/)
